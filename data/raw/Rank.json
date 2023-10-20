@@ -1,0 +1,27 @@
+[
+  {
+    "RankId": 1,
+    "Name": "Rookie",
+    "Timestamp": "AAAAAAAAJxE="
+  },
+  {
+    "RankId": 2,
+    "Name": "Champion",
+    "Timestamp": "AAAAAAAAJxI="
+  },
+  {
+    "RankId": 3,
+    "Name": "Ultimate",
+    "Timestamp": "AAAAAAAAJxM="
+  },
+  {
+    "RankId": 4,
+    "Name": "Mega",
+    "Timestamp": "AAAAAAAAJxQ="
+  },
+  {
+    "RankId": 5,
+    "Name": "N/A",
+    "Timestamp": "AAAAAAAAJxU="
+  }
+]

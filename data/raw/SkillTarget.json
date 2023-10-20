@@ -1,0 +1,42 @@
+[
+  {
+    "SkillTargetId": 1,
+    "Name": "One Enemy",
+    "Timestamp": "AAAAAAAAbTA="
+  },
+  {
+    "SkillTargetId": 2,
+    "Name": "All Enemies",
+    "Timestamp": "AAAAAAAAbTE="
+  },
+  {
+    "SkillTargetId": 3,
+    "Name": "Random Enemy",
+    "Timestamp": "AAAAAAAAbTI="
+  },
+  {
+    "SkillTargetId": 4,
+    "Name": "One Ally",
+    "Timestamp": "AAAAAAAAbTM="
+  },
+  {
+    "SkillTargetId": 5,
+    "Name": "All Allies",
+    "Timestamp": "AAAAAAAAbTQ="
+  },
+  {
+    "SkillTargetId": 6,
+    "Name": "Self",
+    "Timestamp": "AAAAAAAAbTU="
+  },
+  {
+    "SkillTargetId": 7,
+    "Name": "All",
+    "Timestamp": "AAAAAAAAbTY="
+  },
+  {
+    "SkillTargetId": 8,
+    "Name": "Unknown",
+    "Timestamp": "AAAAAAAAbTc="
+  }
+]

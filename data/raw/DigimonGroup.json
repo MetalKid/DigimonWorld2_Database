@@ -1,0 +1,4732 @@
+[
+  {
+    "DigimonGroupId": 1,
+    "DomainId": 1,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 39,
+    "Bits": 280,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWDg="
+  },
+  {
+    "DigimonGroupId": 2,
+    "DomainId": 1,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 186,
+    "Bits": 530,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWDk="
+  },
+  {
+    "DigimonGroupId": 3,
+    "DomainId": 2,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 3,
+    "Bits": 30,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWDo="
+  },
+  {
+    "DigimonGroupId": 4,
+    "DomainId": 2,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 3,
+    "Bits": 60,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWDs="
+  },
+  {
+    "DigimonGroupId": 5,
+    "DomainId": 2,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 3,
+    "Bits": 50,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWDw="
+  },
+  {
+    "DigimonGroupId": 6,
+    "DomainId": 2,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 4,
+    "Bits": 40,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWD0="
+  },
+  {
+    "DigimonGroupId": 7,
+    "DomainId": 2,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 4,
+    "Bits": 40,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWD4="
+  },
+  {
+    "DigimonGroupId": 8,
+    "DomainId": 2,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 4,
+    "Bits": 50,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWD8="
+  },
+  {
+    "DigimonGroupId": 9,
+    "DomainId": 2,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 18,
+    "Bits": 210,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEA="
+  },
+  {
+    "DigimonGroupId": 10,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 21,
+    "Bits": 210,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEE="
+  },
+  {
+    "DigimonGroupId": 11,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 22,
+    "Bits": 360,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEI="
+  },
+  {
+    "DigimonGroupId": 12,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 27,
+    "Bits": 390,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEM="
+  },
+  {
+    "DigimonGroupId": 13,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 22,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEQ="
+  },
+  {
+    "DigimonGroupId": 14,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 23,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEU="
+  },
+  {
+    "DigimonGroupId": 15,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 25,
+    "Bits": 330,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEY="
+  },
+  {
+    "DigimonGroupId": 16,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 58,
+    "Bits": 560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEc="
+  },
+  {
+    "DigimonGroupId": 17,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 58,
+    "Bits": 520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEg="
+  },
+  {
+    "DigimonGroupId": 18,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 59,
+    "Bits": 520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEk="
+  },
+  {
+    "DigimonGroupId": 19,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 55,
+    "Bits": 320,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEo="
+  },
+  {
+    "DigimonGroupId": 20,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 52,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEs="
+  },
+  {
+    "DigimonGroupId": 21,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 53,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWEw="
+  },
+  {
+    "DigimonGroupId": 22,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 65,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWE0="
+  },
+  {
+    "DigimonGroupId": 23,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 66,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWE4="
+  },
+  {
+    "DigimonGroupId": 24,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 104,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWE8="
+  },
+  {
+    "DigimonGroupId": 25,
+    "DomainId": 2,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 289,
+    "Bits": 2100,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFA="
+  },
+  {
+    "DigimonGroupId": 26,
+    "DomainId": 3,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 3,
+    "Bits": 30,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFE="
+  },
+  {
+    "DigimonGroupId": 27,
+    "DomainId": 3,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 3,
+    "Bits": 60,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFI="
+  },
+  {
+    "DigimonGroupId": 28,
+    "DomainId": 3,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 7,
+    "Bits": 100,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFM="
+  },
+  {
+    "DigimonGroupId": 29,
+    "DomainId": 3,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 12,
+    "Bits": 180,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFQ="
+  },
+  {
+    "DigimonGroupId": 30,
+    "DomainId": 3,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 31,
+    "Bits": 180,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFU="
+  },
+  {
+    "DigimonGroupId": 31,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 22,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFY="
+  },
+  {
+    "DigimonGroupId": 32,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 58,
+    "Bits": 560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFc="
+  },
+  {
+    "DigimonGroupId": 33,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 55,
+    "Bits": 320,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFg="
+  },
+  {
+    "DigimonGroupId": 34,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 65,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFk="
+  },
+  {
+    "DigimonGroupId": 35,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 78,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFo="
+  },
+  {
+    "DigimonGroupId": 36,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 840,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFs="
+  },
+  {
+    "DigimonGroupId": 37,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 142,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWFw="
+  },
+  {
+    "DigimonGroupId": 38,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 102,
+    "Bits": 750,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWF0="
+  },
+  {
+    "DigimonGroupId": 39,
+    "DomainId": 3,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 289,
+    "Bits": 2100,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWF4="
+  },
+  {
+    "DigimonGroupId": 40,
+    "DomainId": 4,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 3,
+    "Bits": 50,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWF8="
+  },
+  {
+    "DigimonGroupId": 41,
+    "DomainId": 4,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 4,
+    "Bits": 40,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGA="
+  },
+  {
+    "DigimonGroupId": 42,
+    "DomainId": 4,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 12,
+    "Bits": 180,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGE="
+  },
+  {
+    "DigimonGroupId": 43,
+    "DomainId": 4,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 11,
+    "Bits": 200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGI="
+  },
+  {
+    "DigimonGroupId": 44,
+    "DomainId": 4,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 51,
+    "Bits": 840,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGM="
+  },
+  {
+    "DigimonGroupId": 45,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 25,
+    "Bits": 330,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGQ="
+  },
+  {
+    "DigimonGroupId": 46,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 59,
+    "Bits": 520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGU="
+  },
+  {
+    "DigimonGroupId": 47,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 53,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGY="
+  },
+  {
+    "DigimonGroupId": 48,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 104,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGc="
+  },
+  {
+    "DigimonGroupId": 49,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 102,
+    "Bits": 750,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGg="
+  },
+  {
+    "DigimonGroupId": 50,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 139,
+    "Bits": 780,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGk="
+  },
+  {
+    "DigimonGroupId": 51,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 148,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGo="
+  },
+  {
+    "DigimonGroupId": 52,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 306,
+    "Bits": 1560,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGs="
+  },
+  {
+    "DigimonGroupId": 53,
+    "DomainId": 4,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 433,
+    "Bits": 2520,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWGw="
+  },
+  {
+    "DigimonGroupId": 54,
+    "DomainId": 5,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 4,
+    "Bits": 40,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWG0="
+  },
+  {
+    "DigimonGroupId": 55,
+    "DomainId": 5,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 7,
+    "Bits": 100,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWG4="
+  },
+  {
+    "DigimonGroupId": 56,
+    "DomainId": 5,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 10,
+    "Bits": 160,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWG8="
+  },
+  {
+    "DigimonGroupId": 57,
+    "DomainId": 5,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 22,
+    "Bits": 360,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHA="
+  },
+  {
+    "DigimonGroupId": 58,
+    "DomainId": 5,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 23,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHE="
+  },
+  {
+    "DigimonGroupId": 59,
+    "DomainId": 5,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 54,
+    "Bits": 630,
+    "IsBoss": false,
+    "Note": "MetalGreymon can only be caught until the boss digimon is defeated.",
+    "Timestamp": "AAAAAAAAWHI="
+  },
+  {
+    "DigimonGroupId": 60,
+    "DomainId": 5,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 102,
+    "Bits": 1050,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHM="
+  },
+  {
+    "DigimonGroupId": 61,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 23,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHQ="
+  },
+  {
+    "DigimonGroupId": 62,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 58,
+    "Bits": 520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHU="
+  },
+  {
+    "DigimonGroupId": 63,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 52,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHY="
+  },
+  {
+    "DigimonGroupId": 64,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 66,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHc="
+  },
+  {
+    "DigimonGroupId": 65,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 77,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHg="
+  },
+  {
+    "DigimonGroupId": 66,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHk="
+  },
+  {
+    "DigimonGroupId": 67,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 145,
+    "Bits": 660,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHo="
+  },
+  {
+    "DigimonGroupId": 68,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 189,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHs="
+  },
+  {
+    "DigimonGroupId": 69,
+    "DomainId": 5,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 425,
+    "Bits": 2940,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWHw="
+  },
+  {
+    "DigimonGroupId": 70,
+    "DomainId": 6,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 7,
+    "Bits": 100,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWH0="
+  },
+  {
+    "DigimonGroupId": 71,
+    "DomainId": 6,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 12,
+    "Bits": 180,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWH4="
+  },
+  {
+    "DigimonGroupId": 72,
+    "DomainId": 6,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 21,
+    "Bits": 210,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWH8="
+  },
+  {
+    "DigimonGroupId": 73,
+    "DomainId": 6,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 22,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIA="
+  },
+  {
+    "DigimonGroupId": 74,
+    "DomainId": 6,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 58,
+    "Bits": 560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIE="
+  },
+  {
+    "DigimonGroupId": 75,
+    "DomainId": 6,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 55,
+    "Bits": 320,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWII="
+  },
+  {
+    "DigimonGroupId": 76,
+    "DomainId": 6,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 153,
+    "Bits": 1400,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIM="
+  },
+  {
+    "DigimonGroupId": 77,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 55,
+    "Bits": 320,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIQ="
+  },
+  {
+    "DigimonGroupId": 78,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 65,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIU="
+  },
+  {
+    "DigimonGroupId": 79,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 78,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIY="
+  },
+  {
+    "DigimonGroupId": 80,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 840,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIc="
+  },
+  {
+    "DigimonGroupId": 81,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 142,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIg="
+  },
+  {
+    "DigimonGroupId": 82,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIk="
+  },
+  {
+    "DigimonGroupId": 83,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 195,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIo="
+  },
+  {
+    "DigimonGroupId": 84,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 244,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIs="
+  },
+  {
+    "DigimonGroupId": 85,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWIw="
+  },
+  {
+    "DigimonGroupId": 86,
+    "DomainId": 6,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 680,
+    "Bits": 2000,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWI0="
+  },
+  {
+    "DigimonGroupId": 87,
+    "DomainId": 7,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 11,
+    "Bits": 200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWI4="
+  },
+  {
+    "DigimonGroupId": 88,
+    "DomainId": 7,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 12,
+    "Bits": 180,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWI8="
+  },
+  {
+    "DigimonGroupId": 89,
+    "DomainId": 7,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 27,
+    "Bits": 390,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJA="
+  },
+  {
+    "DigimonGroupId": 90,
+    "DomainId": 7,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 25,
+    "Bits": 330,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJE="
+  },
+  {
+    "DigimonGroupId": 91,
+    "DomainId": 7,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 59,
+    "Bits": 520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJI="
+  },
+  {
+    "DigimonGroupId": 92,
+    "DomainId": 7,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 53,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJM="
+  },
+  {
+    "DigimonGroupId": 93,
+    "DomainId": 7,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 195,
+    "Bits": 1000,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJQ="
+  },
+  {
+    "DigimonGroupId": 94,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 53,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJU="
+  },
+  {
+    "DigimonGroupId": 95,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 104,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJY="
+  },
+  {
+    "DigimonGroupId": 96,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 102,
+    "Bits": 750,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJc="
+  },
+  {
+    "DigimonGroupId": 97,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 139,
+    "Bits": 780,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJg="
+  },
+  {
+    "DigimonGroupId": 98,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 148,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJk="
+  },
+  {
+    "DigimonGroupId": 99,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJo="
+  },
+  {
+    "DigimonGroupId": 100,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 191,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJs="
+  },
+  {
+    "DigimonGroupId": 101,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 231,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJw="
+  },
+  {
+    "DigimonGroupId": 102,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 75,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJ0="
+  },
+  {
+    "DigimonGroupId": 103,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJ4="
+  },
+  {
+    "DigimonGroupId": 104,
+    "DomainId": 7,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 646,
+    "Bits": 3360,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWJ8="
+  },
+  {
+    "DigimonGroupId": 105,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 7,
+    "Bits": 100,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKA="
+  },
+  {
+    "DigimonGroupId": 106,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 10,
+    "Bits": 160,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKE="
+  },
+  {
+    "DigimonGroupId": 107,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 22,
+    "Bits": 360,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKI="
+  },
+  {
+    "DigimonGroupId": 108,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 23,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKM="
+  },
+  {
+    "DigimonGroupId": 109,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 58,
+    "Bits": 520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKQ="
+  },
+  {
+    "DigimonGroupId": 110,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 52,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKU="
+  },
+  {
+    "DigimonGroupId": 111,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 162,
+    "Bits": 1400,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKY="
+  },
+  {
+    "DigimonGroupId": 112,
+    "DomainId": 8,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 120,
+    "Bits": 1040,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKc="
+  },
+  {
+    "DigimonGroupId": 113,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 66,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKg="
+  },
+  {
+    "DigimonGroupId": 114,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 77,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKk="
+  },
+  {
+    "DigimonGroupId": 115,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKo="
+  },
+  {
+    "DigimonGroupId": 116,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 145,
+    "Bits": 660,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKs="
+  },
+  {
+    "DigimonGroupId": 117,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 189,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWKw="
+  },
+  {
+    "DigimonGroupId": 118,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 199,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWK0="
+  },
+  {
+    "DigimonGroupId": 119,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 230,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWK4="
+  },
+  {
+    "DigimonGroupId": 120,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWK8="
+  },
+  {
+    "DigimonGroupId": 121,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 708,
+    "Bits": 2600,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLA="
+  },
+  {
+    "DigimonGroupId": 122,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 708,
+    "Bits": 2400,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLE="
+  },
+  {
+    "DigimonGroupId": 123,
+    "DomainId": 8,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 722,
+    "Bits": 3920,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLI="
+  },
+  {
+    "DigimonGroupId": 124,
+    "DomainId": 9,
+    "IsAfterBloodKnights": false,
+    "ExperiencePoints": 722,
+    "Bits": 3280,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLM="
+  },
+  {
+    "DigimonGroupId": 125,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 65,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLQ="
+  },
+  {
+    "DigimonGroupId": 126,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 66,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLU="
+  },
+  {
+    "DigimonGroupId": 127,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 104,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLY="
+  },
+  {
+    "DigimonGroupId": 128,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 78,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLc="
+  },
+  {
+    "DigimonGroupId": 129,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 77,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLg="
+  },
+  {
+    "DigimonGroupId": 130,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 102,
+    "Bits": 750,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLk="
+  },
+  {
+    "DigimonGroupId": 131,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 840,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLo="
+  },
+  {
+    "DigimonGroupId": 132,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLs="
+  },
+  {
+    "DigimonGroupId": 133,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 139,
+    "Bits": 780,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWLw="
+  },
+  {
+    "DigimonGroupId": 134,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 142,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWL0="
+  },
+  {
+    "DigimonGroupId": 135,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 145,
+    "Bits": 660,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWL4="
+  },
+  {
+    "DigimonGroupId": 136,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 148,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWL8="
+  },
+  {
+    "DigimonGroupId": 137,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMA="
+  },
+  {
+    "DigimonGroupId": 138,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 189,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWME="
+  },
+  {
+    "DigimonGroupId": 139,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMI="
+  },
+  {
+    "DigimonGroupId": 140,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 195,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMM="
+  },
+  {
+    "DigimonGroupId": 141,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 199,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMQ="
+  },
+  {
+    "DigimonGroupId": 142,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 191,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMU="
+  },
+  {
+    "DigimonGroupId": 143,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMY="
+  },
+  {
+    "DigimonGroupId": 144,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMc="
+  },
+  {
+    "DigimonGroupId": 145,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 75,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMg="
+  },
+  {
+    "DigimonGroupId": 146,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMk="
+  },
+  {
+    "DigimonGroupId": 147,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 291,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMo="
+  },
+  {
+    "DigimonGroupId": 148,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMs="
+  },
+  {
+    "DigimonGroupId": 149,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 296,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWMw="
+  },
+  {
+    "DigimonGroupId": 150,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 303,
+    "Bits": 1080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWM0="
+  },
+  {
+    "DigimonGroupId": 151,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 290,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWM4="
+  },
+  {
+    "DigimonGroupId": 152,
+    "DomainId": 10,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 977,
+    "Bits": 2610,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWM8="
+  },
+  {
+    "DigimonGroupId": 153,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 65,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNA="
+  },
+  {
+    "DigimonGroupId": 154,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 78,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNE="
+  },
+  {
+    "DigimonGroupId": 155,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 840,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNI="
+  },
+  {
+    "DigimonGroupId": 156,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 104,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNM="
+  },
+  {
+    "DigimonGroupId": 157,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 102,
+    "Bits": 750,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNQ="
+  },
+  {
+    "DigimonGroupId": 158,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 139,
+    "Bits": 780,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNU="
+  },
+  {
+    "DigimonGroupId": 159,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 66,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNY="
+  },
+  {
+    "DigimonGroupId": 160,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 77,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNc="
+  },
+  {
+    "DigimonGroupId": 161,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNg="
+  },
+  {
+    "DigimonGroupId": 162,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 142,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNk="
+  },
+  {
+    "DigimonGroupId": 163,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNo="
+  },
+  {
+    "DigimonGroupId": 164,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 195,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNs="
+  },
+  {
+    "DigimonGroupId": 165,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 148,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWNw="
+  },
+  {
+    "DigimonGroupId": 166,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWN0="
+  },
+  {
+    "DigimonGroupId": 167,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 191,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWN4="
+  },
+  {
+    "DigimonGroupId": 168,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 145,
+    "Bits": 660,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWN8="
+  },
+  {
+    "DigimonGroupId": 169,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 189,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOA="
+  },
+  {
+    "DigimonGroupId": 170,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 199,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOE="
+  },
+  {
+    "DigimonGroupId": 171,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 231,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOI="
+  },
+  {
+    "DigimonGroupId": 172,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 75,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOM="
+  },
+  {
+    "DigimonGroupId": 173,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOQ="
+  },
+  {
+    "DigimonGroupId": 174,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 230,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOU="
+  },
+  {
+    "DigimonGroupId": 175,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOY="
+  },
+  {
+    "DigimonGroupId": 176,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 291,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOc="
+  },
+  {
+    "DigimonGroupId": 177,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 296,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOg="
+  },
+  {
+    "DigimonGroupId": 178,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 303,
+    "Bits": 1080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOk="
+  },
+  {
+    "DigimonGroupId": 179,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 290,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOo="
+  },
+  {
+    "DigimonGroupId": 180,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 714,
+    "Bits": 1620,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOs="
+  },
+  {
+    "DigimonGroupId": 181,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1011,
+    "Bits": 3780,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWOw="
+  },
+  {
+    "DigimonGroupId": 182,
+    "DomainId": 11,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 714,
+    "Bits": 2700,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWO0="
+  },
+  {
+    "DigimonGroupId": 183,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 360,
+    "Bits": 1500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWO4="
+  },
+  {
+    "DigimonGroupId": 184,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 369,
+    "Bits": 1700,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWO8="
+  },
+  {
+    "DigimonGroupId": 185,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 469,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPA="
+  },
+  {
+    "DigimonGroupId": 186,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 482,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPE="
+  },
+  {
+    "DigimonGroupId": 187,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 453,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPI="
+  },
+  {
+    "DigimonGroupId": 188,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1326,
+    "Bits": 2880,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPM="
+  },
+  {
+    "DigimonGroupId": 189,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 570,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPQ="
+  },
+  {
+    "DigimonGroupId": 190,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 495,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPU="
+  },
+  {
+    "DigimonGroupId": 191,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1422,
+    "Bits": 3900,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPY="
+  },
+  {
+    "DigimonGroupId": 192,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 702,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPc="
+  },
+  {
+    "DigimonGroupId": 193,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 550,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPg="
+  },
+  {
+    "DigimonGroupId": 194,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 560,
+    "Bits": 1400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPk="
+  },
+  {
+    "DigimonGroupId": 195,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 723,
+    "Bits": 1820,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPo="
+  },
+  {
+    "DigimonGroupId": 196,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1572,
+    "Bits": 3510,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPs="
+  },
+  {
+    "DigimonGroupId": 197,
+    "DomainId": 12,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 2227,
+    "Bits": 4290,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWPw="
+  },
+  {
+    "DigimonGroupId": 198,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 290,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWP0="
+  },
+  {
+    "DigimonGroupId": 199,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 365,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWP4="
+  },
+  {
+    "DigimonGroupId": 200,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 377,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWP8="
+  },
+  {
+    "DigimonGroupId": 201,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 485,
+    "Bits": 1980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQE="
+  },
+  {
+    "DigimonGroupId": 202,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 484,
+    "Bits": 1540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQI="
+  },
+  {
+    "DigimonGroupId": 203,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 585,
+    "Bits": 2040,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQM="
+  },
+  {
+    "DigimonGroupId": 204,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQQ="
+  },
+  {
+    "DigimonGroupId": 205,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 723,
+    "Bits": 1820,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQU="
+  },
+  {
+    "DigimonGroupId": 206,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 516,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQY="
+  },
+  {
+    "DigimonGroupId": 207,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 495,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQc="
+  },
+  {
+    "DigimonGroupId": 208,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 622,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQg="
+  },
+  {
+    "DigimonGroupId": 209,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 601,
+    "Bits": 2641,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQk="
+  },
+  {
+    "DigimonGroupId": 210,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1572,
+    "Bits": 5460,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQo="
+  },
+  {
+    "DigimonGroupId": 211,
+    "DomainId": 13,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 2456,
+    "Bits": 5460,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQs="
+  },
+  {
+    "DigimonGroupId": 212,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 303,
+    "Bits": 1080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQw="
+  },
+  {
+    "DigimonGroupId": 213,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 348,
+    "Bits": 1600,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQ0="
+  },
+  {
+    "DigimonGroupId": 214,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 373,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQ4="
+  },
+  {
+    "DigimonGroupId": 215,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 452,
+    "Bits": 2310,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWQ8="
+  },
+  {
+    "DigimonGroupId": 216,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 476,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRA="
+  },
+  {
+    "DigimonGroupId": 217,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 586,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRE="
+  },
+  {
+    "DigimonGroupId": 218,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRI="
+  },
+  {
+    "DigimonGroupId": 219,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 514,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRM="
+  },
+  {
+    "DigimonGroupId": 220,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 495,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRQ="
+  },
+  {
+    "DigimonGroupId": 221,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 595,
+    "Bits": 1960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRU="
+  },
+  {
+    "DigimonGroupId": 222,
+    "DomainId": 14,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1440,
+    "Bits": 2520,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRY="
+  },
+  {
+    "DigimonGroupId": 223,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 702,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRc="
+  },
+  {
+    "DigimonGroupId": 224,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 550,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRg="
+  },
+  {
+    "DigimonGroupId": 225,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 723,
+    "Bits": 1820,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRk="
+  },
+  {
+    "DigimonGroupId": 226,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 516,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRo="
+  },
+  {
+    "DigimonGroupId": 227,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 495,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRs="
+  },
+  {
+    "DigimonGroupId": 228,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 514,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWRw="
+  },
+  {
+    "DigimonGroupId": 229,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 560,
+    "Bits": 1400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWR0="
+  },
+  {
+    "DigimonGroupId": 230,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 622,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWR4="
+  },
+  {
+    "DigimonGroupId": 231,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 595,
+    "Bits": 1960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWR8="
+  },
+  {
+    "DigimonGroupId": 232,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 754,
+    "Bits": 1350,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSA="
+  },
+  {
+    "DigimonGroupId": 233,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1051,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSE="
+  },
+  {
+    "DigimonGroupId": 234,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 726,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSI="
+  },
+  {
+    "DigimonGroupId": 235,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1190,
+    "Bits": 2080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSM="
+  },
+  {
+    "DigimonGroupId": 236,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1164,
+    "Bits": 2400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSQ="
+  },
+  {
+    "DigimonGroupId": 237,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1211,
+    "Bits": 2720,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSU="
+  },
+  {
+    "DigimonGroupId": 238,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1491,
+    "Bits": 2380,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSY="
+  },
+  {
+    "DigimonGroupId": 239,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1530,
+    "Bits": 3060,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSc="
+  },
+  {
+    "DigimonGroupId": 240,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1544,
+    "Bits": 3740,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSg="
+  },
+  {
+    "DigimonGroupId": 241,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 617,
+    "Bits": 1400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSk="
+  },
+  {
+    "DigimonGroupId": 242,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 588,
+    "Bits": 1400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSo="
+  },
+  {
+    "DigimonGroupId": 243,
+    "DomainId": 15,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 627,
+    "Bits": 1580,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSs="
+  },
+  {
+    "DigimonGroupId": 244,
+    "DomainId": 16,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWSw="
+  },
+  {
+    "DigimonGroupId": 245,
+    "DomainId": 16,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 199,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWS0="
+  },
+  {
+    "DigimonGroupId": 246,
+    "DomainId": 16,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 476,
+    "Bits": 900,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWS4="
+  },
+  {
+    "DigimonGroupId": 247,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 145,
+    "Bits": 660,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWS8="
+  },
+  {
+    "DigimonGroupId": 248,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 189,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTA="
+  },
+  {
+    "DigimonGroupId": 249,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 199,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTE="
+  },
+  {
+    "DigimonGroupId": 250,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 230,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTI="
+  },
+  {
+    "DigimonGroupId": 251,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTM="
+  },
+  {
+    "DigimonGroupId": 252,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 291,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTQ="
+  },
+  {
+    "DigimonGroupId": 253,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 303,
+    "Bits": 1080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTU="
+  },
+  {
+    "DigimonGroupId": 254,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 348,
+    "Bits": 1600,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTY="
+  },
+  {
+    "DigimonGroupId": 255,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 373,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTc="
+  },
+  {
+    "DigimonGroupId": 256,
+    "DomainId": 17,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1011,
+    "Bits": 3500,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTg="
+  },
+  {
+    "DigimonGroupId": 257,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 195,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTk="
+  },
+  {
+    "DigimonGroupId": 258,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 142,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTo="
+  },
+  {
+    "DigimonGroupId": 259,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTs="
+  },
+  {
+    "DigimonGroupId": 260,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 244,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWTw="
+  },
+  {
+    "DigimonGroupId": 261,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWT0="
+  },
+  {
+    "DigimonGroupId": 262,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWT4="
+  },
+  {
+    "DigimonGroupId": 263,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 296,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWT8="
+  },
+  {
+    "DigimonGroupId": 264,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 360,
+    "Bits": 1500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUA="
+  },
+  {
+    "DigimonGroupId": 265,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 369,
+    "Bits": 1700,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUE="
+  },
+  {
+    "DigimonGroupId": 266,
+    "DomainId": 18,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1003,
+    "Bits": 2800,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUI="
+  },
+  {
+    "DigimonGroupId": 267,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 148,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUM="
+  },
+  {
+    "DigimonGroupId": 268,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUQ="
+  },
+  {
+    "DigimonGroupId": 269,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 191,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUU="
+  },
+  {
+    "DigimonGroupId": 270,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 231,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUY="
+  },
+  {
+    "DigimonGroupId": 271,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 75,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUc="
+  },
+  {
+    "DigimonGroupId": 272,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUg="
+  },
+  {
+    "DigimonGroupId": 273,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 290,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUk="
+  },
+  {
+    "DigimonGroupId": 274,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 365,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUo="
+  },
+  {
+    "DigimonGroupId": 275,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 377,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUs="
+  },
+  {
+    "DigimonGroupId": 276,
+    "DomainId": 19,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1147,
+    "Bits": 4200,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWUw="
+  },
+  {
+    "DigimonGroupId": 277,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWU0="
+  },
+  {
+    "DigimonGroupId": 278,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWU4="
+  },
+  {
+    "DigimonGroupId": 279,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 189,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWU8="
+  },
+  {
+    "DigimonGroupId": 280,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 195,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVA="
+  },
+  {
+    "DigimonGroupId": 281,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 191,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVE="
+  },
+  {
+    "DigimonGroupId": 282,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 199,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVI="
+  },
+  {
+    "DigimonGroupId": 283,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 244,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVM="
+  },
+  {
+    "DigimonGroupId": 284,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 231,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVQ="
+  },
+  {
+    "DigimonGroupId": 285,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 230,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVU="
+  },
+  {
+    "DigimonGroupId": 286,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVY="
+  },
+  {
+    "DigimonGroupId": 287,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 75,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVc="
+  },
+  {
+    "DigimonGroupId": 288,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVg="
+  },
+  {
+    "DigimonGroupId": 289,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVk="
+  },
+  {
+    "DigimonGroupId": 290,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVo="
+  },
+  {
+    "DigimonGroupId": 291,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 291,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVs="
+  },
+  {
+    "DigimonGroupId": 292,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 296,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWVw="
+  },
+  {
+    "DigimonGroupId": 293,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 303,
+    "Bits": 1080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWV0="
+  },
+  {
+    "DigimonGroupId": 294,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 290,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWV4="
+  },
+  {
+    "DigimonGroupId": 295,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 360,
+    "Bits": 1500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWV8="
+  },
+  {
+    "DigimonGroupId": 296,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 365,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWA="
+  },
+  {
+    "DigimonGroupId": 297,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 348,
+    "Bits": 1600,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWE="
+  },
+  {
+    "DigimonGroupId": 298,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 369,
+    "Bits": 1700,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWI="
+  },
+  {
+    "DigimonGroupId": 299,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 377,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWM="
+  },
+  {
+    "DigimonGroupId": 300,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 373,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWQ="
+  },
+  {
+    "DigimonGroupId": 301,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 469,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWU="
+  },
+  {
+    "DigimonGroupId": 302,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 485,
+    "Bits": 1980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWY="
+  },
+  {
+    "DigimonGroupId": 303,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 452,
+    "Bits": 2310,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWc="
+  },
+  {
+    "DigimonGroupId": 304,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 482,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWg="
+  },
+  {
+    "DigimonGroupId": 305,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 484,
+    "Bits": 1540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWk="
+  },
+  {
+    "DigimonGroupId": 306,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 476,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWo="
+  },
+  {
+    "DigimonGroupId": 307,
+    "DomainId": 20,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1368,
+    "Bits": 3300,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWs="
+  },
+  {
+    "DigimonGroupId": 308,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 191,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWWw="
+  },
+  {
+    "DigimonGroupId": 309,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 231,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWW0="
+  },
+  {
+    "DigimonGroupId": 310,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 75,
+    "Bits": 480,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWW4="
+  },
+  {
+    "DigimonGroupId": 311,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWW8="
+  },
+  {
+    "DigimonGroupId": 312,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 290,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXA="
+  },
+  {
+    "DigimonGroupId": 313,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 365,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXE="
+  },
+  {
+    "DigimonGroupId": 314,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 377,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXI="
+  },
+  {
+    "DigimonGroupId": 315,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 485,
+    "Bits": 1980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXM="
+  },
+  {
+    "DigimonGroupId": 316,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 484,
+    "Bits": 1540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXQ="
+  },
+  {
+    "DigimonGroupId": 317,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 585,
+    "Bits": 2040,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXU="
+  },
+  {
+    "DigimonGroupId": 318,
+    "DomainId": 21,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1674,
+    "Bits": 3960,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXY="
+  },
+  {
+    "DigimonGroupId": 319,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 199,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXc="
+  },
+  {
+    "DigimonGroupId": 320,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 230,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXg="
+  },
+  {
+    "DigimonGroupId": 321,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXk="
+  },
+  {
+    "DigimonGroupId": 322,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 291,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXo="
+  },
+  {
+    "DigimonGroupId": 323,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 303,
+    "Bits": 1080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXs="
+  },
+  {
+    "DigimonGroupId": 324,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 348,
+    "Bits": 1600,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWXw="
+  },
+  {
+    "DigimonGroupId": 325,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 373,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWX0="
+  },
+  {
+    "DigimonGroupId": 326,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 452,
+    "Bits": 2310,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWX4="
+  },
+  {
+    "DigimonGroupId": 327,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 476,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWX8="
+  },
+  {
+    "DigimonGroupId": 328,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 586,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYA="
+  },
+  {
+    "DigimonGroupId": 329,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYE="
+  },
+  {
+    "DigimonGroupId": 330,
+    "DomainId": 22,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1657,
+    "Bits": 4800,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYI="
+  },
+  {
+    "DigimonGroupId": 331,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 195,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYM="
+  },
+  {
+    "DigimonGroupId": 332,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 244,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYQ="
+  },
+  {
+    "DigimonGroupId": 333,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYU="
+  },
+  {
+    "DigimonGroupId": 334,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYY="
+  },
+  {
+    "DigimonGroupId": 335,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 296,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYc="
+  },
+  {
+    "DigimonGroupId": 336,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 360,
+    "Bits": 1500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYg="
+  },
+  {
+    "DigimonGroupId": 337,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 369,
+    "Bits": 1700,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYk="
+  },
+  {
+    "DigimonGroupId": 338,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 469,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYo="
+  },
+  {
+    "DigimonGroupId": 339,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 482,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYs="
+  },
+  {
+    "DigimonGroupId": 340,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 570,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWYw="
+  },
+  {
+    "DigimonGroupId": 341,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 453,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWY0="
+  },
+  {
+    "DigimonGroupId": 342,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 708,
+    "Bits": 2400,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWY4="
+  },
+  {
+    "DigimonGroupId": 343,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 708,
+    "Bits": 2600,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWY8="
+  },
+  {
+    "DigimonGroupId": 344,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 966,
+    "Bits": 2860,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZA="
+  },
+  {
+    "DigimonGroupId": 345,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 966,
+    "Bits": 2420,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZE="
+  },
+  {
+    "DigimonGroupId": 346,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 966,
+    "Bits": 3740,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZI="
+  },
+  {
+    "DigimonGroupId": 347,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 248,
+    "Bits": 2400,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZM="
+  },
+  {
+    "DigimonGroupId": 348,
+    "DomainId": 23,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1878,
+    "Bits": 5520,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZQ="
+  },
+  {
+    "DigimonGroupId": 349,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 296,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZU="
+  },
+  {
+    "DigimonGroupId": 350,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 291,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZY="
+  },
+  {
+    "DigimonGroupId": 351,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 290,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZc="
+  },
+  {
+    "DigimonGroupId": 352,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZg="
+  },
+  {
+    "DigimonGroupId": 353,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 303,
+    "Bits": 1080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZk="
+  },
+  {
+    "DigimonGroupId": 354,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZo="
+  },
+  {
+    "DigimonGroupId": 355,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 369,
+    "Bits": 1700,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZs="
+  },
+  {
+    "DigimonGroupId": 356,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 348,
+    "Bits": 1600,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZw="
+  },
+  {
+    "DigimonGroupId": 357,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 377,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZ0="
+  },
+  {
+    "DigimonGroupId": 358,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 360,
+    "Bits": 1500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZ4="
+  },
+  {
+    "DigimonGroupId": 359,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 373,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWZ8="
+  },
+  {
+    "DigimonGroupId": 360,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 365,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaA="
+  },
+  {
+    "DigimonGroupId": 361,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 469,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaE="
+  },
+  {
+    "DigimonGroupId": 362,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 452,
+    "Bits": 2310,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaI="
+  },
+  {
+    "DigimonGroupId": 363,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 485,
+    "Bits": 1980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaM="
+  },
+  {
+    "DigimonGroupId": 364,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 482,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaQ="
+  },
+  {
+    "DigimonGroupId": 365,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 476,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaU="
+  },
+  {
+    "DigimonGroupId": 366,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 484,
+    "Bits": 1540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaY="
+  },
+  {
+    "DigimonGroupId": 367,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 570,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWac="
+  },
+  {
+    "DigimonGroupId": 368,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 586,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWag="
+  },
+  {
+    "DigimonGroupId": 369,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 585,
+    "Bits": 2040,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWak="
+  },
+  {
+    "DigimonGroupId": 370,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 453,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWao="
+  },
+  {
+    "DigimonGroupId": 371,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWas="
+  },
+  {
+    "DigimonGroupId": 372,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWaw="
+  },
+  {
+    "DigimonGroupId": 373,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 702,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWa0="
+  },
+  {
+    "DigimonGroupId": 374,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 495,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWa4="
+  },
+  {
+    "DigimonGroupId": 375,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 723,
+    "Bits": 1820,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWa8="
+  },
+  {
+    "DigimonGroupId": 376,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 550,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbA="
+  },
+  {
+    "DigimonGroupId": 377,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 514,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbE="
+  },
+  {
+    "DigimonGroupId": 378,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 516,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbI="
+  },
+  {
+    "DigimonGroupId": 379,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1572,
+    "Bits": 4680,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbM="
+  },
+  {
+    "DigimonGroupId": 380,
+    "DomainId": 24,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1179,
+    "Bits": 2340,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbQ="
+  },
+  {
+    "DigimonGroupId": 381,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 3,
+    "Bits": 30,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbU="
+  },
+  {
+    "DigimonGroupId": 382,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 3,
+    "Bits": 50,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbY="
+  },
+  {
+    "DigimonGroupId": 383,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 4,
+    "Bits": 40,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbc="
+  },
+  {
+    "DigimonGroupId": 384,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 12,
+    "Bits": 180,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbg="
+  },
+  {
+    "DigimonGroupId": 385,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 11,
+    "Bits": 200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbk="
+  },
+  {
+    "DigimonGroupId": 386,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 7,
+    "Bits": 100,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbo="
+  },
+  {
+    "DigimonGroupId": 387,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 21,
+    "Bits": 210,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbs="
+  },
+  {
+    "DigimonGroupId": 388,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 27,
+    "Bits": 390,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWbw="
+  },
+  {
+    "DigimonGroupId": 389,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 22,
+    "Bits": 360,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWb0="
+  },
+  {
+    "DigimonGroupId": 390,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 55,
+    "Bits": 320,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWb4="
+  },
+  {
+    "DigimonGroupId": 391,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 53,
+    "Bits": 240,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWb8="
+  },
+  {
+    "DigimonGroupId": 392,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 58,
+    "Bits": 520,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcA="
+  },
+  {
+    "DigimonGroupId": 393,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 78,
+    "Bits": 500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcE="
+  },
+  {
+    "DigimonGroupId": 394,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 104,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcI="
+  },
+  {
+    "DigimonGroupId": 395,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 66,
+    "Bits": 300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcM="
+  },
+  {
+    "DigimonGroupId": 396,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 142,
+    "Bits": 900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcQ="
+  },
+  {
+    "DigimonGroupId": 397,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 139,
+    "Bits": 780,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcU="
+  },
+  {
+    "DigimonGroupId": 398,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 143,
+    "Bits": 540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcY="
+  },
+  {
+    "DigimonGroupId": 399,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 195,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcc="
+  },
+  {
+    "DigimonGroupId": 400,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 193,
+    "Bits": 910,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcg="
+  },
+  {
+    "DigimonGroupId": 401,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 189,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWck="
+  },
+  {
+    "DigimonGroupId": 402,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 237,
+    "Bits": 1200,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWco="
+  },
+  {
+    "DigimonGroupId": 403,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 231,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcs="
+  },
+  {
+    "DigimonGroupId": 404,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 230,
+    "Bits": 1120,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWcw="
+  },
+  {
+    "DigimonGroupId": 405,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1260,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWc0="
+  },
+  {
+    "DigimonGroupId": 406,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 291,
+    "Bits": 1170,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWc4="
+  },
+  {
+    "DigimonGroupId": 407,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 299,
+    "Bits": 1530,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWc8="
+  },
+  {
+    "DigimonGroupId": 408,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 369,
+    "Bits": 1700,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdA="
+  },
+  {
+    "DigimonGroupId": 409,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 365,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdE="
+  },
+  {
+    "DigimonGroupId": 410,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 348,
+    "Bits": 1600,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdI="
+  },
+  {
+    "DigimonGroupId": 411,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 360,
+    "Bits": 1500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdM="
+  },
+  {
+    "DigimonGroupId": 412,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 377,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdQ="
+  },
+  {
+    "DigimonGroupId": 413,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 373,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdU="
+  },
+  {
+    "DigimonGroupId": 414,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 469,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdY="
+  },
+  {
+    "DigimonGroupId": 415,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 485,
+    "Bits": 1980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdc="
+  },
+  {
+    "DigimonGroupId": 416,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 452,
+    "Bits": 2310,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdg="
+  },
+  {
+    "DigimonGroupId": 417,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 482,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdk="
+  },
+  {
+    "DigimonGroupId": 418,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 484,
+    "Bits": 1540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdo="
+  },
+  {
+    "DigimonGroupId": 419,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 476,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWds="
+  },
+  {
+    "DigimonGroupId": 420,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 570,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWdw="
+  },
+  {
+    "DigimonGroupId": 421,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 585,
+    "Bits": 2040,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWd0="
+  },
+  {
+    "DigimonGroupId": 422,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 586,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWd4="
+  },
+  {
+    "DigimonGroupId": 423,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 453,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWd8="
+  },
+  {
+    "DigimonGroupId": 424,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeA="
+  },
+  {
+    "DigimonGroupId": 425,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeE="
+  },
+  {
+    "DigimonGroupId": 426,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 702,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeI="
+  },
+  {
+    "DigimonGroupId": 427,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 723,
+    "Bits": 1820,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeM="
+  },
+  {
+    "DigimonGroupId": 428,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 495,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeQ="
+  },
+  {
+    "DigimonGroupId": 429,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 550,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeU="
+  },
+  {
+    "DigimonGroupId": 430,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 516,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeY="
+  },
+  {
+    "DigimonGroupId": 431,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 514,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWec="
+  },
+  {
+    "DigimonGroupId": 432,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 560,
+    "Bits": 1400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeg="
+  },
+  {
+    "DigimonGroupId": 433,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 622,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWek="
+  },
+  {
+    "DigimonGroupId": 434,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 595,
+    "Bits": 1960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWeo="
+  },
+  {
+    "DigimonGroupId": 435,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 754,
+    "Bits": 1350,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWes="
+  },
+  {
+    "DigimonGroupId": 436,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1051,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWew="
+  },
+  {
+    "DigimonGroupId": 437,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 726,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWe0="
+  },
+  {
+    "DigimonGroupId": 438,
+    "DomainId": 25,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1795,
+    "Bits": 2250,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWe4="
+  },
+  {
+    "DigimonGroupId": 439,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 360,
+    "Bits": 1500,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWe8="
+  },
+  {
+    "DigimonGroupId": 440,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 369,
+    "Bits": 1700,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfA="
+  },
+  {
+    "DigimonGroupId": 441,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 469,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfE="
+  },
+  {
+    "DigimonGroupId": 442,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 365,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfI="
+  },
+  {
+    "DigimonGroupId": 443,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 377,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfM="
+  },
+  {
+    "DigimonGroupId": 444,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 484,
+    "Bits": 1540,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfQ="
+  },
+  {
+    "DigimonGroupId": 445,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 348,
+    "Bits": 1600,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfU="
+  },
+  {
+    "DigimonGroupId": 446,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 373,
+    "Bits": 1900,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfY="
+  },
+  {
+    "DigimonGroupId": 447,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 452,
+    "Bits": 2310,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfc="
+  },
+  {
+    "DigimonGroupId": 448,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 482,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfg="
+  },
+  {
+    "DigimonGroupId": 449,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 570,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfk="
+  },
+  {
+    "DigimonGroupId": 450,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 485,
+    "Bits": 1980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfo="
+  },
+  {
+    "DigimonGroupId": 451,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 585,
+    "Bits": 2040,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfs="
+  },
+  {
+    "DigimonGroupId": 452,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 476,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWfw="
+  },
+  {
+    "DigimonGroupId": 453,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 586,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWf0="
+  },
+  {
+    "DigimonGroupId": 454,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 453,
+    "Bits": 960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWf4="
+  },
+  {
+    "DigimonGroupId": 455,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 702,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWf8="
+  },
+  {
+    "DigimonGroupId": 456,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgE="
+  },
+  {
+    "DigimonGroupId": 457,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 613,
+    "Bits": 1800,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgI="
+  },
+  {
+    "DigimonGroupId": 458,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 514,
+    "Bits": 1430,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgM="
+  },
+  {
+    "DigimonGroupId": 459,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 550,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgQ="
+  },
+  {
+    "DigimonGroupId": 460,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 560,
+    "Bits": 1400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgU="
+  },
+  {
+    "DigimonGroupId": 461,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 723,
+    "Bits": 1820,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgY="
+  },
+  {
+    "DigimonGroupId": 462,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 516,
+    "Bits": 1300,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgc="
+  },
+  {
+    "DigimonGroupId": 463,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 622,
+    "Bits": 980,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgg="
+  },
+  {
+    "DigimonGroupId": 464,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 495,
+    "Bits": 1560,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgk="
+  },
+  {
+    "DigimonGroupId": 465,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 595,
+    "Bits": 1960,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgo="
+  },
+  {
+    "DigimonGroupId": 466,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 754,
+    "Bits": 1350,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgs="
+  },
+  {
+    "DigimonGroupId": 467,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1051,
+    "Bits": 1950,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWgw="
+  },
+  {
+    "DigimonGroupId": 468,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 726,
+    "Bits": 1650,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWg0="
+  },
+  {
+    "DigimonGroupId": 469,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1190,
+    "Bits": 2080,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWg4="
+  },
+  {
+    "DigimonGroupId": 470,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1164,
+    "Bits": 2400,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWg8="
+  },
+  {
+    "DigimonGroupId": 471,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 1211,
+    "Bits": 2720,
+    "IsBoss": false,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWhA="
+  },
+  {
+    "DigimonGroupId": 472,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 848,
+    "Bits": 1600,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWhE="
+  },
+  {
+    "DigimonGroupId": 473,
+    "DomainId": 26,
+    "IsAfterBloodKnights": true,
+    "ExperiencePoints": 4468,
+    "Bits": 5600,
+    "IsBoss": true,
+    "Note": null,
+    "Timestamp": "AAAAAAAAWhI="
+  }
+]

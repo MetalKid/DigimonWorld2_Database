@@ -1,0 +1,62 @@
+[
+  {
+    "SpecialtyId": 1,
+    "Name": "Darkness",
+    "Darkness": 1.0,
+    "Fire": 0.8,
+    "Machine": 1.0,
+    "Nature": 1.0,
+    "Water": 1.2,
+    "Timestamp": "AAAAAAAAbTw="
+  },
+  {
+    "SpecialtyId": 2,
+    "Name": "Fire",
+    "Darkness": 1.0,
+    "Fire": 1.0,
+    "Machine": 0.8,
+    "Nature": 1.2,
+    "Water": 1.0,
+    "Timestamp": "AAAAAAAAbT0="
+  },
+  {
+    "SpecialtyId": 3,
+    "Name": "Machine",
+    "Darkness": 1.2,
+    "Fire": 1.0,
+    "Machine": 1.0,
+    "Nature": 1.0,
+    "Water": 0.8,
+    "Timestamp": "AAAAAAAAbT4="
+  },
+  {
+    "SpecialtyId": 4,
+    "Name": "Nature",
+    "Darkness": 0.8,
+    "Fire": 1.0,
+    "Machine": 1.2,
+    "Nature": 1.0,
+    "Water": 1.0,
+    "Timestamp": "AAAAAAAAbT8="
+  },
+  {
+    "SpecialtyId": 5,
+    "Name": "Water",
+    "Darkness": 1.0,
+    "Fire": 1.2,
+    "Machine": 1.0,
+    "Nature": 0.8,
+    "Water": 1.0,
+    "Timestamp": "AAAAAAAAbUA="
+  },
+  {
+    "SpecialtyId": 6,
+    "Name": "None",
+    "Darkness": 1.0,
+    "Fire": 1.0,
+    "Machine": 1.0,
+    "Nature": 1.0,
+    "Water": 1.0,
+    "Timestamp": "AAAAAAAAbUE="
+  }
+]

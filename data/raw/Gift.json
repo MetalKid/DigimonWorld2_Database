@@ -1,0 +1,27 @@
+[
+  {
+    "GiftId": 1,
+    "Name": "A",
+    "Timestamp": "AAAAAAAAbGA="
+  },
+  {
+    "GiftId": 2,
+    "Name": "B",
+    "Timestamp": "AAAAAAAAbGE="
+  },
+  {
+    "GiftId": 3,
+    "Name": "C",
+    "Timestamp": "AAAAAAAAbGI="
+  },
+  {
+    "GiftId": 4,
+    "Name": "D",
+    "Timestamp": "AAAAAAAAbGM="
+  },
+  {
+    "GiftId": 5,
+    "Name": "E",
+    "Timestamp": "AAAAAAAAbGQ="
+  }
+]

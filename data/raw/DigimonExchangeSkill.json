@@ -1,0 +1,110 @@
+[
+  {
+    "DigimonExchangeSkillId": 1,
+    "DigimonExchangeId": 1,
+    "SkillId": 162,
+    "Timestamp": "AAAAAAAAWCY="
+  },
+  {
+    "DigimonExchangeSkillId": 2,
+    "DigimonExchangeId": 1,
+    "SkillId": 201,
+    "Timestamp": "AAAAAAAAWCc="
+  },
+  {
+    "DigimonExchangeSkillId": 3,
+    "DigimonExchangeId": 3,
+    "SkillId": 253,
+    "Timestamp": "AAAAAAAAWCg="
+  },
+  {
+    "DigimonExchangeSkillId": 4,
+    "DigimonExchangeId": 3,
+    "SkillId": 285,
+    "Timestamp": "AAAAAAAAWCk="
+  },
+  {
+    "DigimonExchangeSkillId": 5,
+    "DigimonExchangeId": 4,
+    "SkillId": 136,
+    "Timestamp": "AAAAAAAAWCo="
+  },
+  {
+    "DigimonExchangeSkillId": 6,
+    "DigimonExchangeId": 4,
+    "SkillId": 262,
+    "Timestamp": "AAAAAAAAWCs="
+  },
+  {
+    "DigimonExchangeSkillId": 7,
+    "DigimonExchangeId": 5,
+    "SkillId": 276,
+    "Timestamp": "AAAAAAAAWCw="
+  },
+  {
+    "DigimonExchangeSkillId": 8,
+    "DigimonExchangeId": 5,
+    "SkillId": 180,
+    "Timestamp": "AAAAAAAAWC0="
+  },
+  {
+    "DigimonExchangeSkillId": 9,
+    "DigimonExchangeId": 6,
+    "SkillId": 245,
+    "Timestamp": "AAAAAAAAWC4="
+  },
+  {
+    "DigimonExchangeSkillId": 10,
+    "DigimonExchangeId": 6,
+    "SkillId": 149,
+    "Timestamp": "AAAAAAAAWC8="
+  },
+  {
+    "DigimonExchangeSkillId": 11,
+    "DigimonExchangeId": 7,
+    "SkillId": 161,
+    "Timestamp": "AAAAAAAAWDA="
+  },
+  {
+    "DigimonExchangeSkillId": 12,
+    "DigimonExchangeId": 7,
+    "SkillId": 273,
+    "Timestamp": "AAAAAAAAWDE="
+  },
+  {
+    "DigimonExchangeSkillId": 13,
+    "DigimonExchangeId": 8,
+    "SkillId": 150,
+    "Timestamp": "AAAAAAAAWDI="
+  },
+  {
+    "DigimonExchangeSkillId": 14,
+    "DigimonExchangeId": 8,
+    "SkillId": 206,
+    "Timestamp": "AAAAAAAAWDM="
+  },
+  {
+    "DigimonExchangeSkillId": 15,
+    "DigimonExchangeId": 9,
+    "SkillId": 156,
+    "Timestamp": "AAAAAAAAWDQ="
+  },
+  {
+    "DigimonExchangeSkillId": 16,
+    "DigimonExchangeId": 9,
+    "SkillId": 261,
+    "Timestamp": "AAAAAAAAWDU="
+  },
+  {
+    "DigimonExchangeSkillId": 17,
+    "DigimonExchangeId": 10,
+    "SkillId": 160,
+    "Timestamp": "AAAAAAAAWDY="
+  },
+  {
+    "DigimonExchangeSkillId": 18,
+    "DigimonExchangeId": 10,
+    "SkillId": 256,
+    "Timestamp": "AAAAAAAAWDc="
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "SkillTypeId": 1,
+    "Name": "Attack",
+    "Timestamp": "AAAAAAAAbTg="
+  },
+  {
+    "SkillTypeId": 2,
+    "Name": "Interrupt",
+    "Timestamp": "AAAAAAAAbTk="
+  },
+  {
+    "SkillTypeId": 3,
+    "Name": "Counter",
+    "Timestamp": "AAAAAAAAbTo="
+  },
+  {
+    "SkillTypeId": 4,
+    "Name": "Assist",
+    "Timestamp": "AAAAAAAAbTs="
+  }
+]

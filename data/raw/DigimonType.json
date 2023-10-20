@@ -1,0 +1,26 @@
+[
+  {
+    "DigimonTypeId": 1,
+    "Name": "Vaccine",
+    "Timestamp": "AAAAAAACOlM=",
+    "Data": 0.8,
+    "Vaccine": 1.0,
+    "Virus": 1.2
+  },
+  {
+    "DigimonTypeId": 2,
+    "Name": "Data",
+    "Timestamp": "AAAAAAACOlQ=",
+    "Data": 1.0,
+    "Vaccine": 1.2,
+    "Virus": 0.8
+  },
+  {
+    "DigimonTypeId": 3,
+    "Name": "Virus",
+    "Timestamp": "AAAAAAACOlU=",
+    "Data": 1.2,
+    "Vaccine": 0.8,
+    "Virus": 1.0
+  }
+]
