@@ -8,4 +8,4 @@ If you use this data, all I ask is that you share that you got it from here!
 
 The website that will show this database data is here:
 
-http://dev.metalkid.info
+https://dev.metalkid.info
